@@ -1,2 +1,2 @@
 # drought_analysis_with_GEE
-Drought analysis using different indices for certain dates
+Using LST, VCI, NDVI, TCI, VHI and SPI, Turkey's agricultural and meteorological drought analysis
